@@ -63,6 +63,8 @@ categories:
   #=> "interpolated shell command\n"
 {% endcodeblock %}
 
+*В примере на строке 9 автор, очевидно, автор имел в виду "non-interpolated Array of words, separated by whitespaces" вместо "non-interpolated String"*
+
 [Здесь][2] можно посмотреть еще несколько примеров с тестами	.
 
 [Источник][1]
